@@ -7,4 +7,19 @@
  *  most basic and common operational processes.
  */
 
-console.log('Hello World!');
+// Load application libraries.
+const server = require('./lib/server');
+
+// Decalre variables.
+const app = {};
+
+// Manage libraries.
+app.init = () => {
+  server.init();
+};
+
+// Initiate application components.
+app.init();
+
+// Export module.
+module.exports = app;
