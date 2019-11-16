@@ -1,0 +1,104 @@
+{
+  "_pizzas": {
+    "VE01": {
+      "type": "veg",
+      "name": "Veg Exotica",
+      "description": "Baby Corn, Black Olives, Green Capsicum, Jalapeno, Red Capsicum",
+      "size": "Medium",
+      "serves": "2",
+      "curst": "Pan",
+      "price": "569"
+    },
+    "VE02": {
+      "type": "veg",
+      "name": "Veg Exotica",
+      "description": "Baby Corn, Black Olives, Green Capsicum, Jalapeno, Red Capsicum",
+      "size": "Medium",
+      "serves": "2",
+      "curst": "Stuffed Crust-Cheese Max",
+      "price": "665"
+    },
+    "VE03": {
+      "type": "veg",
+      "name": "Veg Exotica",
+      "description": "Baby Corn, Black Olives, Green Capsicum, Jalapeno, Red Capsicum",
+      "size": "Personal",
+      "serves": "1",
+      "curst": "Pan",
+      "price": "329"
+    },
+    "VE04": {
+      "type": "veg",
+      "name": "Veg Exotica",
+      "description": "Baby Corn, Black Olives, Green Capsicum, Jalapeno, Red Capsicum",
+      "size": "Personal",
+      "serves": "1",
+      "curst": "Stuffed Crust-Cheese Max",
+      "price": "395"
+    },
+    "CE01": {
+      "type": "nonveg",
+      "name": "Chicken Exotica",
+      "description": "Chicken Pepperoni, Green And Yellow Zucchini, Jalapeno, Smoked",
+      "size": "Medium",
+      "serves": "2",
+      "curst": "Pan",
+      "price": "629"
+    },
+    "CE02": {
+      "type": "nonveg",
+      "name": "Chicken Exotica",
+      "description": "Chicken Pepperoni, Green And Yellow Zucchini, Jalapeno, Smoked",
+      "size": "Medium",
+      "serves": "2",
+      "curst": "Stuffed Crust-Cheese Max",
+      "price": "725"
+    },
+    "CE03": {
+      "type": "nonveg",
+      "name": "Chicken Exotica",
+      "description": "Chicken Pepperoni, Green And Yellow Zucchini, Jalapeno, Smoked",
+      "size": "Personal",
+      "serves": "1",
+      "curst": "Pan",
+      "price": "359"
+    },
+    "CE04": {
+      "type": "nonveg",
+      "name": "Chicken Exotica",
+      "description": "Chicken Pepperoni, Green And Yellow Zucchini, Jalapeno, Smoked",
+      "size": "Personal",
+      "serves": "1",
+      "curst": "Stuffed Crust-Cheese Max",
+      "price": "425"
+    }
+  },
+  "_drinks": {
+    "BEV01": {
+      "type": "veg",
+      "name": "Pepsi",
+      "description": "Contains Caffeine",
+      "size": "",
+      "serves": "1",
+      "price": "57"
+    }
+  },
+  "_desserts": {
+    "DES01": {
+      "type": "veg",
+      "name": "Choco Volcano Cake",
+      "description": "Choco Delight With A Gooey Chocolate Volcano Centre",
+      "size": "500 ML",
+      "serves": "1",
+      "price": "99"
+    },
+    "DES02": {
+      "type": "veg",
+      "name": "Choco Truffle Cake",
+      "description": "Classic Favourite. Rich Choco Cake",
+      "size": "",
+      "serves": "1",
+      "price": "89"
+    }
+  }
+}
